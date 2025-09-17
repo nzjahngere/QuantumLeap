@@ -20,7 +20,7 @@ public class mainTests extends baseTests {
     ExtentTest test;
 
     @BeforeMethod
-    public void setup() {
+    public void init() {
     	
     	ExtentSparkReporter spark = new ExtentSparkReporter("APITestsReport.html");
         extent = new ExtentReports();
