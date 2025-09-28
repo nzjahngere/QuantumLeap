@@ -32,7 +32,7 @@ Total **30 test cases** are distributed across **7 scenarios**.
 ---
 
 ## Notes
-- These scenarios are **high-level** and each is elaborated into detailed **test cases** in [`TESTCASESAUCEDEMO.md`](./TESTCASESAUCEDEMO.md).  
+- These scenarios are **high-level** and each is elaborated into detailed **test cases** in [`Test_Cases.md`](./Test_Cases.md).  
 - API, Security, and Performance are partially conceptual, aligned with project requirements.  
 - Scenario-to-test case mapping ensures **traceability** and comprehensive coverage across functional and non-functional aspects.  
 
