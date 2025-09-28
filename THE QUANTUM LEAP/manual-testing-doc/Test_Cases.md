@@ -137,3 +137,4 @@ This document contains the test cases for the Swag Labs E-Commerce website (Sauc
 - Capture server-side metrics if possible (CPU, memory, DB latency).
 
 ---
+
