@@ -99,7 +99,7 @@ mvn test
 ---
 
 ## **🤝 Contributors**
-- ([**Nazish Jehangir**](https://github.com/nzjahngere))  
+- [**Nazish Jehangir**](https://github.com/nzjahngere)
 - Special thanks to **Masai School** for guidance  
 
 ---
